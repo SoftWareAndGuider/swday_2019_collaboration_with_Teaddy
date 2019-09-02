@@ -11,7 +11,7 @@ swday_2019_collaboration_with_Teaddy
 
 저작권
 ----------------------------
-본 프로젝트의 제작자는 태디님, 재준님, 민우님이며,
+본 프로젝트의 제작자는 [태디님](https://github.com/seomingyu11), 재준님, [민우님](https://github.com/agarifighter)이며,
 
 저작권은 SWAG Team에게 있고, [MIT LICENSE](./LICENSE)에 의해 보호됩니다.
 
