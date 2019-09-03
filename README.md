@@ -9,6 +9,11 @@ swday_2019_collaboration_with_Teaddy
 소스코드는 [아두이노로 두더지 잡기 게임 만들기 : 네이버 블로그](http://short.kro.kr/game1) 페이지를 참고하였습니다.
 
 
+준비물
+----------------------------
+본 프로젝트의 준비물은 [준비물.md](./준비물.md)를 참고해 주세요
+
+
 저작권
 ----------------------------
 본 프로젝트의 제작자는 [태디님](https://github.com/seomingyu11), 재준님, [민우님](https://github.com/agarifighter)이며,
