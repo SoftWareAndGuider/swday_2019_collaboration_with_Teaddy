@@ -8,6 +8,10 @@ swday_2019_collaboration_with_Teaddy
 
 소스코드는 [아두이노로 두더지 잡기 게임 만들기 : 네이버 블로그](http://short.kro.kr/game1) 페이지를 참고하였습니다.
 
+3d 파일은
+----------------------------
+<a href="https://www.tinkercad.com/">Tinkercad</a>에서 3D 파일 모델링을 진행하였습니다.
+
 
 준비물
 ----------------------------
