@@ -21,12 +21,12 @@ void setup() {
     }
     pinMode(ResetSW, INPUT_PULLUP);     //리셋용 스위치 사용(풀업)
     pinMode(piezo, OUTPUT);       //게임소리 부저 사용
-
-    digitalWrite(1, HIGH);
-    digitalWrite(2, HIGH);
-    digitalWrite(3, HIGH);
-    digitalWrite(4, HIGH);
-    digitalWrite(5, HIGH);
+//
+//    digitalWrite(1, HIGH);
+//    digitalWrite(2, HIGH);
+//    digitalWrite(3, HIGH);
+//    digitalWrite(4, HIGH);
+//    digitalWrite(5, HIGH);
 }
 
 void loop() {
